@@ -1,6 +1,17 @@
 - name: News
   link: /whatsnew.html
 
+- name: Men
+  link: /men.htm
+- name: Women
+  link: /women.htm
+- name: Children
+  link: /children.htm
+- name: Groups
+  link: /groups.htm
+- name: In Settings
+  link: /settings.htm
+
 - name: Home
   link: /
 - name: About
